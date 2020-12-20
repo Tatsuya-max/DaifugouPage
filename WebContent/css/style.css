@@ -1,0 +1,26 @@
+body  {
+  background-image: url(images/background-photo.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../img/IMG_0701.JPG");
+  background-color:#000000;
+
+  color:#FFFFFF;
+}
+
+h1 {
+  border-bottom: solid 3px black;
+  text-align:center;
+}
+
+p {
+  text-align:center;
+  font-size:125%;
+}
+
+#submit_button {
+  text-align: center;
+  color :black;
+}

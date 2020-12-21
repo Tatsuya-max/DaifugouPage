@@ -1,7 +1,7 @@
 # DaifugouPage
 Java ServletとJSPを使ったWEBページ
 
-学習した内容を元に、JAVA ServletとJSPを使って作成したWEBページです。  
+学習した内容を元に、Java ServletとJSPを使って作成したWEBページです。  
 ゲストとして簡易ログインをする機能を実装。  
   
 トップページ以外のデザインには手を加えていません。  
